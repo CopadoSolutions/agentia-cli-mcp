@@ -2,7 +2,7 @@
 
 Run Copado DevOps tasks from MCP-capable AI agents through the Agentia CLI local MCP server.
 
-This repository is a public landing page for the official MCP Registry listing `com.copado/agentia-cli` (version 1.10.0). The Agentia CLI is closed-source and is distributed through npm as [`@copado/agentia-cli`](https://www.npmjs.com/package/@copado/agentia-cli). Documentation: <https://developer.copado.com/docs>.
+This repository is a public landing page for the official MCP Registry listing `com.copado/agentia-cli` (version 1.11.0). The Agentia CLI is closed-source and is distributed through npm as [`@copado/agentia-cli`](https://www.npmjs.com/package/@copado/agentia-cli). Documentation: <https://developer.copado.com/docs>.
 
 ## Prerequisite: store credentials
 
