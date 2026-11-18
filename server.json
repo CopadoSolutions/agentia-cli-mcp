@@ -3,7 +3,7 @@
   "name": "com.copado/agentia-cli",
   "title": "Copado Agentia",
   "description": "Run Copado DevOps tasks from MCP-capable AI agents through the Agentia CLI local MCP server.",
-  "version": "1.12.0",
+  "version": "1.13.0",
   "websiteUrl": "https://developer.copado.com/docs",
   "repository": {
     "url": "https://github.com/CopadoSolutions/agentia-cli-mcp",
@@ -14,7 +14,7 @@
       "registryType": "npm",
       "registryBaseUrl": "https://registry.npmjs.org",
       "identifier": "@copado/agentia-cli",
-      "version": "1.12.0",
+      "version": "1.13.0",
       "runtimeHint": "npx",
       "transport": {
         "type": "stdio"
